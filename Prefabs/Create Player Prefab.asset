@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5fb8218013d95f4eb1a342dcf476401, type: 3}
+  m_Name: Create Player Prefab
+  m_EditorClassIdentifier: 
+  Player: {fileID: 6829331670534330706, guid: 4aed1567afd9b8047842ca1cbbe17abf, type: 3}
+  World: {fileID: 6189439627078992768, guid: dcd488658223c6b459061edc8af741f1, type: 3}
+  Camera: {fileID: 7813032299994555866, guid: bbf413d217656b448bd4849dbf096bf4, type: 3}
